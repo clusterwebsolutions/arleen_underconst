@@ -1,0 +1,33 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.for_text{
+    color: #b44886;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.arleen_color{
+    color:#b44886;;
+}
+
+.footer_text{
+    padding: 10px;
+    font-weight: 100;
+    font-size: 16px;
+}
+
+.for_div{
+    bottom: 70px;
+
+    position: fixed;
+    width: 100%;
+}
+#footer {
+    bottom: 0;
+    color: #ffffff;
+    position: fixed;
+    width: 100%;
+    background-color: #ae4b84;
+}
+
